@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eusilvio&style=for-the-badge&color=3FCF8E&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/eusilvio?style=for-the-badge&color=3178C6&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/badge/Foco-Cec%C3%ADlia%20%E2%9D%A4-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Foco-Cecilia%20%E2%9D%A4-FF69B4?style=for-the-badge"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3FCF8E,100:3178C6&height=2&section=header"/>
