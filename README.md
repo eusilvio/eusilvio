@@ -1,12 +1,12 @@
 <!-- BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:3178C6&height=220&section=header&text=Silvio%20Campos&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20marido%20da%20Karen%20%7C%20futuro%20pai%20da%20Cec%C3%ADlia&descAlignY=56&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:3178C6&height=220&section=header&text=Silvio%20Campos&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20marido%20da%20Karen%20%7C%20pai%20da%20Cecilia&descAlignY=56&descSize=18"/>
 </p>
 
 <!-- TYPING -->
 <p align="center">
   <a href="https://github.com/eusilvio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FCF8E&center=true&vCenter=true&width=620&lines=Construindo+SaaS+de+verdade+em+produ%C3%A7%C3%A3o;Next.js+%7C+React+Native+%7C+Supabase;TypeScript+strict%2C+sempre;Mobile-first%2C+PWA%2C+offline-first;Futuro+pai+da+Cec%C3%ADlia+%F0%9F%91%B6"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FCF8E&center=true&vCenter=true&width=620&lines=Construindo+SaaS+de+verdade+em+produ%C3%A7%C3%A3o;Next.js+%7C+React+Native+%7C+Supabase;TypeScript+strict%2C+sempre;Mobile-first%2C+PWA%2C+offline-first;Pai+da+Cecilia+%F0%9F%91%B6"/>
   </a>
 </p>
 
@@ -29,7 +29,8 @@ const silvio = {
   focus: ["SaaS em produção", "mobile-first", "PWA", "DX afiada"],
   faith: "Cristão ✝",
   wife: "Karen ❤",
-  currentMission: "ser o melhor pai da Cecília 👶",
+  daughter: "Cecilia 👶",
+  currentMission: "ser o melhor pai da Cecilia",
 };
 ```
 
@@ -80,13 +81,13 @@ Mais do que código, é um time que confia, cuida e cresce junto. Tenho muito or
 <p align="center">
   <i>"Sei estar humilhado, e sei também ter abundância; em toda a maneira e em todas as coisas estou instruído, tanto a ter fartura como a ter fome, tanto a ter abundância como a padecer necessidade."</i>
   <br/>
-  <b>— Filipenses 4:12</b>
+  <b>Filipenses 4:12</b>
 </p>
 
 <p align="center">
   <i>"Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos."</i>
   <br/>
-  <b>— João 15:13</b>
+  <b>João 15:13</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3FCF8E,100:3178C6&height=2&section=header"/>
@@ -134,5 +135,5 @@ Mais do que código, é um time que confia, cuida e cresce junto. Tenho muito or
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:3FCF8E&height=120&section=footer&text=Feito%20com%20%E2%9D%A4%20para%20a%20Karen%20e%20a%20Cec%C3%ADlia&fontColor=ffffff&fontSize=16&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:3FCF8E&height=120&section=footer&text=Feito%20com%20%E2%9D%A4%20para%20a%20Karen%20e%20a%20Cecilia&fontColor=ffffff&fontSize=16&fontAlignY=75"/>
 </p>
